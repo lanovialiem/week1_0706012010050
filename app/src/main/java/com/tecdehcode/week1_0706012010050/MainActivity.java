@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     public static ArrayList<User> dataUser;
     static Adapter adapter;
 
+
     boolean doubleTapExit = false;
 
     @Override
